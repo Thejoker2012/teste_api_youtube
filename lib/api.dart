@@ -3,7 +3,6 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 import 'models/video.dart';
 
-const API_KEY = "AIzaSyBfeUBhhdmfzTKQrJwv3_7upo0rR1D0wWc";
 
 /*
 * "http://suggestqueries.google.com/complete/search?hl=en&ds=yt&client=youtube&hjson=t&cp=1&q=$search&format=5&alt=json"
